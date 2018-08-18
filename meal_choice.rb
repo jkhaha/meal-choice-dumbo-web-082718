@@ -2,7 +2,7 @@
 # passed into it and defaults to meat.
 require 'pry'
 def meal_choice(meal = "meat")
-  puts "My meal choice is #{meal}!"
+  puts "Meal choice is #{meal}!"
 end
 
 meal_choice
